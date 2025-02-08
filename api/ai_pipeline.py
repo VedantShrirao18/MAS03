@@ -5,7 +5,7 @@ from fastapi import Query
 from classification import classify_issue_ml
 
 # Load Data
-CSV_FILE = "/home/vedant/Downloads/ai_agent/data/your_data.csv"
+CSV_FILE = r"C:\Users\saksh\OneDrive\Desktop\MAS03\MAS03\data\your_data.csv"
 jira_data = pd.read_csv(CSV_FILE)
 
 TOGETHER_API_KEY = "your_together_api_key"
