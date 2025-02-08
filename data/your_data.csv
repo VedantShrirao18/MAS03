@@ -67,3 +67,4 @@ JIRA-4639,Handle Multiple Users,Fix issue related to handle multiple users,Done,
 JIRA-7461,Handle Multiple Users,Fix issue related to handle multiple users,To Do,Critical,James Brown,Jane Smith,2025-02-07,2025-02-20,Scalability
 JIRA-9866,Handle Multiple Users,Fix issue related to handle multiple users,Done,Critical,Anna Lee,James Brown,2025-02-07,2025-02-20,Scalability
 JIRA-7384,Admin Authentication,Fix issue related to admin authentication,In Progress,Medium,John Doe,James Brown,2025-02-07,2025-02-20,Scalability
+JIRA-6415,Concurrent user are not suppoerted,Fix issue related to concurrent user are not suppoerted,Done,Medium,Jane Smith,John Doe,2025-02-07,2025-02-20,Scalability
