@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+together
+pandas
+numpy
+scikit-learn
+faiss-cpu
+chromadb
+joblib

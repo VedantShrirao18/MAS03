@@ -1,0 +1,69 @@
+Issue ID,Summary,Description,Status,Priority,Assignee,Reporter,Created Date,Due Date,Classification
+JIRA-001,Two-factor authentication,Fix issue related to two-factor authentication,To Do,Medium,Anna Lee,John Doe,2025-01-23,2025-02-12,Functional
+JIRA-002,Search performance optimization,Fix issue related to search performance optimization,In Progress,Low,James Brown,Mary Johnson,2025-01-26,2025-02-3,Performance
+JIRA-003,Auto-scaling setup,Fix issue related to auto-scaling setup,To Do,Medium,Mary Johnson,Anna Lee,2025-01-29,2025-02-7,Scalability
+JIRA-004,Navigation bar update,Fix issue related to navigation bar update,Done,Medium,Anna Lee,James Brown,2025-01-16,2025-02-4,Functional
+JIRA-005,Search performance optimization,Fix issue related to search performance optimization,To Do,High,Anna Lee,Anna Lee,2025-01-15,2025-02-3,Performance
+JIRA-006,Feature flag implementation,Fix issue related to feature flag implementation,Done,Medium,Jane Smith,Anna Lee,2025-01-21,2025-02-7,Scalability
+JIRA-007,Search bar bug,Fix issue related to search bar bug,In Progress,Medium,James Brown,Mary Johnson,2025-01-15,2025-02-9,Functional
+JIRA-008,Bulk data import failure,Fix issue related to bulk data import failure,Done,High,James Brown,Anna Lee,2025-01-14,2025-02-4,Performance
+JIRA-009,API rate limiting,Fix issue related to api rate limiting,To Do,Medium,Mary Johnson,James Brown,2025-01-15,2025-02-15,Scalability
+JIRA-010,User profile page,Fix issue related to user profile page,To Do,Medium,Jane Smith,Jane Smith,2025-01-20,2025-02-4,Functional
+JIRA-011,Data synchronization bug,Fix issue related to data synchronization bug,To Do,Low,Anna Lee,Mary Johnson,2025-01-13,2025-02-14,Performance
+JIRA-012,API rate limiting,Fix issue related to api rate limiting,To Do,Low,Anna Lee,John Doe,2025-01-27,2025-02-7,Scalability
+JIRA-013,Search bar bug,Fix issue related to search bar bug,To Do,High,Anna Lee,James Brown,2025-01-14,2025-02-14,Functional
+JIRA-014,Query optimization issue,Fix issue related to query optimization issue,To Do,Low,James Brown,John Doe,2025-01-11,2025-02-6,Performance
+JIRA-015,Third-party API integration,Fix issue related to third-party api integration,To Do,High,Mary Johnson,Anna Lee,2025-01-21,2025-02-7,Scalability
+JIRA-016,Search bar bug,Fix issue related to search bar bug,In Progress,Low,Jane Smith,Jane Smith,2025-01-14,2025-02-3,Functional
+JIRA-017,Cache optimization,Fix issue related to cache optimization,Done,High,John Doe,John Doe,2025-01-25,2025-02-14,Performance
+JIRA-018,Logging system improvement,Fix issue related to logging system improvement,To Do,Medium,Anna Lee,Mary Johnson,2025-01-23,2025-02-10,Scalability
+JIRA-019,User onboarding experience,Fix issue related to user onboarding experience,In Progress,Medium,Jane Smith,Jane Smith,2025-01-20,2025-02-15,Functional
+JIRA-020,Response time optimization,Fix issue related to response time optimization,Done,Medium,John Doe,Anna Lee,2025-01-12,2025-02-6,Performance
+JIRA-021,Database indexing issue,Fix issue related to database indexing issue,In Progress,High,Mary Johnson,John Doe,2025-01-16,2025-02-12,Scalability
+JIRA-022,Search bar bug,Fix issue related to search bar bug,In Progress,High,Jane Smith,Jane Smith,2025-01-18,2025-02-5,Functional
+JIRA-023,Load balancing issue,Fix issue related to load balancing issue,To Do,High,Mary Johnson,Jane Smith,2025-01-26,2025-02-5,Performance
+JIRA-024,High traffic handling,Fix issue related to high traffic handling,Done,Low,John Doe,Anna Lee,2025-01-29,2025-02-2,Scalability
+JIRA-025,Navigation bar update,Fix issue related to navigation bar update,In Progress,Low,James Brown,James Brown,2025-01-14,2025-02-1,Functional
+JIRA-026,Search performance optimization,Fix issue related to search performance optimization,In Progress,Medium,Jane Smith,Mary Johnson,2025-01-21,2025-02-6,Performance
+JIRA-027,Auto-scaling setup,Fix issue related to auto-scaling setup,In Progress,Low,John Doe,John Doe,2025-01-22,2025-02-12,Scalability
+JIRA-028,Feature A testing,Fix issue related to feature a testing,Done,Medium,Anna Lee,Mary Johnson,2025-01-10,2025-02-10,Functional
+JIRA-029,Data synchronization bug,Fix issue related to data synchronization bug,To Do,High,James Brown,James Brown,2025-01-10,2025-02-4,Performance
+JIRA-030,Third-party API integration,Fix issue related to third-party api integration,In Progress,Low,James Brown,Jane Smith,2025-01-10,2025-02-4,Scalability
+JIRA-031,User profile page,Fix issue related to user profile page,To Do,Low,James Brown,James Brown,2025-01-10,2025-02-14,Functional
+JIRA-032,Response time optimization,Fix issue related to response time optimization,In Progress,High,John Doe,John Doe,2025-01-18,2025-02-12,Performance
+JIRA-033,Session handling improvement,Fix issue related to session handling improvement,To Do,High,John Doe,Anna Lee,2025-01-19,2025-02-6,Scalability
+JIRA-034,Form validation errors,Fix issue related to form validation errors,Done,Low,James Brown,James Brown,2025-01-14,2025-02-7,Functional
+JIRA-035,Server crash recovery,Fix issue related to server crash recovery,In Progress,High,Jane Smith,Anna Lee,2025-01-16,2025-02-4,Performance
+JIRA-036,Multi-language support,Fix issue related to multi-language support,In Progress,Medium,Jane Smith,Mary Johnson,2025-01-24,2025-02-14,Scalability
+JIRA-037,Login page issue,Fix issue related to login page issue,To Do,Medium,John Doe,John Doe,2025-01-25,2025-02-6,Functional
+JIRA-038,Database connection error,Fix issue related to database connection error,In Progress,High,James Brown,Mary Johnson,2025-01-16,2025-02-10,Performance
+JIRA-039,Third-party API integration,Fix issue related to third-party api integration,To Do,Low,Anna Lee,John Doe,2025-01-25,2025-02-12,Scalability
+JIRA-040,Search bar bug,Fix issue related to search bar bug,In Progress,High,Anna Lee,John Doe,2025-01-19,2025-02-3,Functional
+JIRA-041,Error logging enhancement,Fix issue related to error logging enhancement,In Progress,Medium,Jane Smith,John Doe,2025-01-23,2025-02-3,Performance
+JIRA-042,Multi-language support,Fix issue related to multi-language support,To Do,Medium,Anna Lee,James Brown,2025-01-17,2025-02-10,Scalability
+JIRA-043,Form validation errors,Fix issue related to form validation errors,In Progress,High,Jane Smith,John Doe,2025-01-25,2025-02-1,Functional
+JIRA-044,CDN integration,Fix issue related to cdn integration,To Do,High,Mary Johnson,Mary Johnson,2025-01-12,2025-02-8,Performance
+JIRA-045,High traffic handling,Fix issue related to high traffic handling,To Do,Low,John Doe,John Doe,2025-01-16,2025-02-15,Scalability
+JIRA-046,User profile page,Fix issue related to user profile page,To Do,High,Jane Smith,Anna Lee,2025-01-28,2025-02-8,Functional
+JIRA-047,Load balancing issue,Fix issue related to load balancing issue,To Do,Medium,John Doe,Mary Johnson,2025-01-29,2025-02-13,Performance
+JIRA-048,Logging system improvement,Fix issue related to logging system improvement,To Do,Medium,Mary Johnson,John Doe,2025-01-13,2025-02-5,Scalability
+JIRA-049,User onboarding experience,Fix issue related to user onboarding experience,To Do,High,Jane Smith,John Doe,2025-01-10,2025-02-12,Functional
+JIRA-050,Server crash recovery,Fix issue related to server crash recovery,Done,High,James Brown,John Doe,2025-01-10,2025-02-7,Performance
+JIRA-9794,Fix login page bug,,Task,In Progress,Medium,Jane Smith,2025-02-06 15:42:09
+JIRA-8502,concurrent users are not working,Fix issue related to concurrent users are not working,To Do,Low,John Doe,Mary Johnson,2025-02-06,2025-02-19,
+JIRA-1228,Add issue related to login failure,Fix issue related to add issue related to login failure,Done,Medium,John Doe,Jane Smith,2025-02-07,2025-03-02,General
+JIRA-6493,Add issue related to login failure,Fix issue related to add issue related to login failure,To Do,Medium,John Doe,James Brown,2025-02-07,2025-03-08,General
+JIRA-2053,Add issue related to login failure,Fix issue related to add issue related to login failure,Done,High,Jane Smith,Anna Lee,2025-02-07,2025-03-06,Functional
+JIRA-8258,Add issue High Amount of Concurrent User are not supported,Fix issue related to add issue high amount of concurrent user are not supported,To Do,Medium,James Brown,Jane Smith,2025-02-07,2025-02-20,Scalability
+JIRA-1265,Add issue High Amount of Concurrent User are not supported,Fix issue related to add issue high amount of concurrent user are not supported,To Do,Medium,Jane Smith,Jane Smith,2025-02-07,2025-02-18,Scalability
+JIRA-7060,Add issue High Amount of Concurrent User are not supported,Fix issue related to add issue high amount of concurrent user are not supported,Done,Medium,Anna Lee,John Doe,2025-02-07,2025-02-24,Scalability
+JIRA-2447,Add issue Login is not working,Fix issue related to add issue login is not working,In Progress,Medium,John Doe,James Brown,2025-02-07,2025-02-22,Functional
+JIRA-7201,concurrent user are not supported,Fix issue related to concurrent user are not supported,Done,Medium,James Brown,Jane Smith,2025-02-07,2025-02-20,Scalability
+JIRA-3755,Logout button is not working,Fix issue related to logout button is not working,To Do,Medium,Anna Lee,Jane Smith,2025-02-07,2025-02-20,Functional
+JIRA-6929,Optimize the code,Fix issue related to optimize the code,In Progress,Medium,Anna Lee,James Brown,2025-02-07,2025-02-20,Scalability
+JIRA-8005,Login UI,Fix issue related to login ui,To Do,High,Jane Smith,Anna Lee,2025-02-07,2025-02-20,Scalability
+JIRA-7459,Handle Multiple Users,Fix issue related to handle multiple users,In Progress,Medium,John Doe,Anna Lee,2025-02-07,2025-02-20,Scalability
+JIRA-4639,Handle Multiple Users,Fix issue related to handle multiple users,Done,Critical,John Doe,Anna Lee,2025-02-07,2025-02-20,Scalability
+JIRA-7461,Handle Multiple Users,Fix issue related to handle multiple users,To Do,Critical,James Brown,Jane Smith,2025-02-07,2025-02-20,Scalability
+JIRA-9866,Handle Multiple Users,Fix issue related to handle multiple users,Done,Critical,Anna Lee,James Brown,2025-02-07,2025-02-20,Scalability
+JIRA-7384,Admin Authentication,Fix issue related to admin authentication,In Progress,Medium,John Doe,James Brown,2025-02-07,2025-02-20,Scalability
